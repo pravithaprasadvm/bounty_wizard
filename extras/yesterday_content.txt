@@ -1,0 +1,3 @@
+// Single-file React component (from canvas)
+// Full single-file implementation was created earlier; see this placeholder.
+// For brevity the full content is available inside ChatGPT canvas.
